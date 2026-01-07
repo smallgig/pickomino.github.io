@@ -1,5 +1,4 @@
-# pickomino.github.io
-Website for Pickomino Gymnasium Environment for Reinforcement Learning project.
+### Website for Pickomino Gymnasium Environment for Reinforcement Learning project.
 
 # Please access the repository for the most recent README.md
 <a href="https://github.com/smallgig/Pickomino/blob/main/README.md">
