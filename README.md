@@ -3,6 +3,9 @@ Website for Pickomino Gymnasium Environment for Reinforcement Learning project.
 ## Related project.
 [README from] https://github.com/smallgig/Pickomino/blob/main/README.md
 
+# Please access the repository for the most recent README.md
+https://github.com/smallgig/Pickomino/blob/main/README.md
+
 ## Description
 
 An environment conforming to the **Gymnasium** API for the dice game **Pickomino (Heckmeck am Bratwurmeck)**
