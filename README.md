@@ -1,15 +1,7 @@
-### Website for Pickomino Gymnasium Environment for Reinforcement Learning project.
-
-## Please access the repository for the most recent README.md
-<a href="https://github.com/smallgig/Pickomino/blob/main/README.md">
-  README from Pickomino
-</a>
-
-
 # Pickomino-Env
 
 [![PyPI version](https://img.shields.io/pypi/v/pickomino-env.svg)](https://pypi.org/project/pickomino-env/)
-[![Python 3.8-3.12](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10-3.14](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue.svg)](https://www.python.org/downloads/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://docs.astral.sh/ruff/)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://pre-commit.com/)
 [![Type hints: Pyright](https://img.shields.io/badge/type%20hints-Pyright-brightgreen.svg)](https://github.com/microsoft/pyright)
@@ -22,6 +14,10 @@
 [![Pylint](https://img.shields.io/badge/pylint-checked-brightgreen)](https://pylint.pycqa.org/)
 [![Type hints: mypy](https://img.shields.io/badge/type%20hints-mypy-brightgreen.svg)](http://mypy-lang.org/)
 [![pytest: 95%+ coverage](https://img.shields.io/badge/pytest-95%25%2B%20coverage-brightgreen)](https://pytest.org/)
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3df93fb5-ed77-45f0-9128-ab9cf2004c10" width="500">
+</div>
 
 ## Description
 
@@ -109,7 +105,7 @@ These must be specified.
 
 | Parameter        | Type        | Default | Description                                                                                |
 |------------------|-------------|---------|--------------------------------------------------------------------------------------------|
-| `number_of_bots` | int         | --      | Number of bot opponents (1-6) you want to play against                                     |
+| `number_of_bots` | int         | 1       | Number of bot opponents (1-6) you want to play against                                     |
 | `render_mode`    | str or None | None    | Visualization mode:<br/>None (training),<br/>"human" (display), or "rgb_array" (recording) |
 
 ## Setup
